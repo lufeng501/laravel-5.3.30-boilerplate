@@ -7,3 +7,8 @@ Homestead.json
 Homestead.yaml
 .env
 composer.lock
+_ide_helper.php
+/config/ide-helper.php
+/config/debugbar.php
+/resources/views/vendor
+/storage
